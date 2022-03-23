@@ -1,0 +1,225 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;   
+}
+header{
+    border: 5px dashed;
+    border-radius: 50px;
+    border-top-style: solid;
+    background-color: rgba(7, 245, 253, 0.945);
+    border-color: rgb(253, 41, 3);    
+}
+body{
+    background-color: rgb(211, 253, 207);
+    margin: 30px;
+}
+.menu{
+    display: flex;
+    
+}
+.lista{
+    display: flex;
+    list-style: none;
+}
+li{   
+   margin: 0px 10px 0px 10px;   
+}
+.footer{
+    text-align: center;
+
+}
+.lifoo{
+    display: flex;
+    
+}
+#li{
+    display: flex;
+    text-align: center;
+    margin: 0px 100px 0px 200px;    
+} 
+#li1{
+    margin: 0px 50px 0px 100px;
+}
+#li2{
+    margin: 0px 50px 0px 50px;
+}
+#li3{
+    margin: 0px 50px 0px 50px;
+}
+#li4{
+    margin: 0px 50px 0px 50px;
+}
+footer{    
+    border: 5px dashed;
+    border-radius: 50px;
+    border-bottom-style: solid;
+    background-color: rgba(7, 245, 253, 0.945);
+    border-color: rgb(253, 41, 3);
+}
+#p:hover{
+    text-align: center;
+    color: blue;   
+}
+#h2i:hover{
+    color: rgb(252, 24, 16);   
+}
+hr{
+    padding: 8px;
+    background-color: black;
+}
+#bv{
+    margin: 20px 0px 0px 20px;
+}
+table{
+    border: 50px;v
+    padding: 0px 0px 0px 100px ;
+}
+tr{
+    border: 20px;
+    padding: 20px 20px 20px 20px;
+}
+#li8{    
+    display: flex;
+    text-align: center;
+    margin: 0px 0px 0px 0px;    
+}
+#edu1{    
+    display: flex;
+    text-align: center;
+    margin: 0px 0px 0px 100px;    
+}
+#ir1{
+    margin: 0px 20px 0px 80px;
+    padding: 0px 20px 0px 40px;
+}
+#ir2{
+    margin: 0px 20px 0px 40px;
+    padding: 0px 20px 0px 40px;
+}
+#ir3{
+    margin: 0px 20px 0px 40px;
+    padding: 0px 20px 0px 40px;
+}
+#ir4{
+    margin: 0px 20px 0px 40px;
+    padding: 0px 20px 0px 40px;
+}
+#ir5{
+    margin: 0px 20px 0px 40px;
+    padding: 0px 20px 0px 40px;
+}
+#r1{
+    margin: 0px 0px 0px 0px;
+    padding: 0px 20px 0px 40px;
+    border: 0px 60px 0px 60px;
+    border: 5px;
+    border-style: solid;
+    border-color: blue;
+    background-color: rgb(253, 124, 215);
+}
+#cr1{
+    background-color: greenyellow;
+}
+#ulr1{
+    background-color: greenyellow;
+}
+#olr1{
+    background-color: greenyellow;
+}
+#r2{
+    margin: 20px 0px 0px 0px;
+    padding: 0px 20px 0px 40px;
+    border: 0px 60px 0px 60px;
+    border: 5px;
+    border-style: solid;
+    border-color: blue;
+    background-color: rgb(253, 124, 215);
+}
+#cr2{
+    background-color: greenyellow;
+}
+#ulr2{
+    background-color: greenyellow;
+}
+#olr2{
+    background-color: greenyellow;
+}
+#r3{
+    margin: 20px 0px 0px 0px;
+    padding: 0px 20px 0px 40px;
+    border: 0px 60px 0px 60px;
+    border: 5px;
+    border-style: solid;
+    border-color: blue;
+    background-color: rgb(253, 124, 215);
+}
+#cr3{
+    background-color: greenyellow;
+}
+#ulr3{
+    background-color: greenyellow;
+}
+#olr3{
+    background-color: greenyellow;
+}
+#r4{
+    margin: 20px 0px 0px 0px;
+    padding: 0px 20px 0px 40px;
+    border: 0px 60px 0px 60px;
+    border: 5px;
+    border-style: solid;
+    border-color: blue;
+    background-color: rgb(253, 124, 215);
+}
+#cr4{
+    background-color: greenyellow;
+}
+#ulr4{
+    background-color: greenyellow;
+}
+#olr4{
+    background-color: greenyellow;
+}
+#r5{
+    margin: 20px 0px 0px 0px;
+    padding: 0px 20px 0px 40px;
+    border: 0px 60px 0px 60px;
+    border: 5px;
+    border-style: solid;
+    border-color: blue;
+    background-color: rgb(253, 124, 215);
+}
+#cr5{
+    background-color: greenyellow;
+}
+#ulr5{
+    background-color: greenyellow;
+}
+#olr5{
+    background-color: greenyellow;
+}
+#borde{    
+    border: 0px 60px 0px 60px;
+    border: 10px;
+    border-right-style: solid;
+    border-color: rgb(0, 0, 0);    
+}
+#iv1{
+    margin: 0px 20px 0px 50px;
+    padding: 0px 20px 0px 50px;
+}
+#iv2{
+    margin: 0px 20px 0px 50px;
+    padding: 0px 20px 0px 50px;
+}
+#iv3{
+    margin: 0px 20px 0px 50px;
+    padding: 0px 20px 0px 50px;
+}
+#iv4{
+    margin: 0px 20px 0px 50px;
+    padding: 0px 20px 0px 50px;
+}
+#iv5{
+    margin: 0px 20px 0px 50px;
+    padding: 0px 20px 0px 50px;
+}
